@@ -2,7 +2,7 @@
 
 A simple and personal desktop notification system that reminds you to stay mindful throughout your day — from journaling and meditation to tea breaks and bedtime routines.
 
-<!-- Optional: Add a custom banner -->
+![image](https://github.com/user-attachments/assets/4fa13bd2-af93-4077-ae9a-07d70279b1c6)
 
 ## ✨ Features
 - 🔔 Sends desktop notifications for mindfulness tasks
